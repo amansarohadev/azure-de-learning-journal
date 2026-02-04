@@ -12,7 +12,7 @@ I spent years in Azure SQL at HCL. Now I'm building pipelines.
 Instead of pretending I know everything, I'm showing exactly how I learn.
 
 ## Current Status
-- [ ] Azure foundations (Storage, Networking basics)
+- [x] Azure foundations (Storage, Networking basics)
 - [ ] Azure Data Factory — first pipeline
 - [ ] Databricks — first notebook
 - [ ] Synapse — first query
