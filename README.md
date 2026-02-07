@@ -15,6 +15,7 @@ Instead of pretending I know everything, I'm showing exactly how I learn.
 - [x] Azure foundations (Storage, Networking basics)
 - [x] Azure Data Factory — first pipeline
 - [x] Azure Data Factory — Triggers & Real-Time Automation
+- [x] Azure Data Factory — Debugging & Execute Pipeline
 - [ ] Databricks — first notebook
 - [ ] Synapse — first query
 - [ ] Delta Lake — first table
